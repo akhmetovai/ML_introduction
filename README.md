@@ -2,12 +2,12 @@
 
 Решения задач курса 'Введение в машинное обучение'.
 
-1. "Машинное обучение", ФКН ВШЭ: 
-https://github.com/esokolov/ml-course-hse
-http://wiki.cs.hse.ru/Заглавная_страница
-
-2. "Машинное обучение", ШАД:
-https://yandexdataschool.ru/edu-process/courses/machine-learning
-
-3. Семинары по машинному обучению, ВМК МГУ:
-https://github.com/esokolov/ml-course-msu
+1. "Машинное обучение", ФКН ВШЭ:\n
+https://github.com/esokolov/ml-course-hse\n
+http://wiki.cs.hse.ru/Заглавная_страница\n
+\n
+2. "Машинное обучение", ШАД:\n
+https://yandexdataschool.ru/edu-process/courses/machine-learning\n
+\n
+3. Семинары по машинному обучению, ВМК МГУ:\n
+https://github.com/esokolov/ml-course-msu\n
